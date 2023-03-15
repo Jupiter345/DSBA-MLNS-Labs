@@ -1,0 +1,8 @@
+networkx
+matplotlib
+scipy
+gensim (pip install -U gensim)
+scikit-learn
+seaborn
+pandas
+Node2Vec
