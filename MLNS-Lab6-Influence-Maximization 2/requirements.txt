@@ -1,0 +1,10 @@
+networkx
+matplotlib
+scipy
+gensim
+scikit-learn
+seaborn
+pandas
+python-louvain
+ndlib
+bokeh
